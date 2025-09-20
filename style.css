@@ -1,0 +1,29 @@
+body {
+    background-blend-mode: color;
+    background-color: darkgrey;
+}
+
+.txmainp {
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bfragpic {
+    height: 200px;
+    width: 200px;
+}
+
+.loginb {
+   background-color: lightgrey;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   height: 30px;
+   width: 50px;
+   border-radius: 10px;
+}
+
+.signupb {
+    background-color: lightgrey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 30px;
+    width: 60px;
+    border-radius: 10px;
+}
